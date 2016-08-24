@@ -8,4 +8,3 @@ if ( $result == 11)
 else
     echo "Failed";
 ?>
-
