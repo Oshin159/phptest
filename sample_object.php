@@ -1,9 +1,9 @@
 <?php
 class foo
 {
-    function do_foo()
+    function add($x,$y)
     {
-        echo "Doing foo."; 
+        print $x+$y ; 
     }
 }
 
