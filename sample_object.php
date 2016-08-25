@@ -3,7 +3,7 @@ class foo
 {
     function add($x,$y)
     {
-        print $x+$y ; 
+        return $x+$y ; 
     }
 }
 
